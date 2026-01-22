@@ -1,0 +1,7 @@
+{
+  "name": "Copy of CineQuest: AI-Powered Movie Experience",
+  "description": "A premium movie booking simulation featuring AI-driven recommendations, interactive seat selection, and real-time movie insights powered by Gemini 3.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
